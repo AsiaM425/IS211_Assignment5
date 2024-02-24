@@ -88,5 +88,5 @@ def main(filename, num_servers=1):
 
 if __name__ == "__main__":
     main("//Users/asiamobley/Downloads/requests.csv", num_servers=1)
-  # Change num_servers as needed
-# Write your code here :-)
+  
+
