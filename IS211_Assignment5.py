@@ -87,6 +87,6 @@ def main(filename, num_servers=1):
         simulateManyServers(filename, num_servers)
 
 if __name__ == "__main__":
-    main("//Users/asiamobley/Downloads/requests.csv", num_servers=1)
+    main("/Users/asiamobley/Downloads/requests.csv", num_servers=1)
   
 
